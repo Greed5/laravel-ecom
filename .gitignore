@@ -23,10 +23,10 @@ Homestead.json
 Homestead.yaml
 Thumbs.db
 .env
-/node_modules 
-/public/storage 
-/storage/*.key 
-/vendor 
-.env.backup 
-.env.production 
-.phpunit.result.cache 
+/node_modules
+/public/storage
+/storage/*.key
+/vendor
+.env.backup
+.env.production
+.phpunit.result.cache
